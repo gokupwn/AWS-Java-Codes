@@ -1,0 +1,3 @@
+emse\CreateS3Bucket.class
+emse\CreateEC2Instance.class
+emse\S3ListBuckets.class
