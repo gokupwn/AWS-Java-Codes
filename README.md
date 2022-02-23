@@ -1,5 +1,4 @@
 # Cloud Computing Lab-2:
-## Members: Hassan Al Achek - Farid Bechaalany
 
 ### Task-1:
 - To create an EC2 instance, use `createEC2Instance` function which takes as arguments:
